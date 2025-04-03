@@ -53,6 +53,11 @@ Register.jsx: The registration form for new users (students or admins) to create
 Result.jsx: Displays the results for each student after receiving data via API or Postman.
 
 Update.jsx: Allows administrators to update student details, such as name, department, and academic information.
+
 ### Database (MySQL): ###
 
 Student Table: Stores information like name, age, department, and other student-related data.
+
+### Screenshots of the project ###
+
+![image](https://github.com/AbishekNedunchezhian/StudentManagement/blob/79252b7b13906e5827b9f6d1f83da777885fb5b0/Screenshot%202025-04-03%20214955.png)
