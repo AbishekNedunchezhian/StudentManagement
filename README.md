@@ -61,3 +61,13 @@ Student Table: Stores information like name, age, department, and other student-
 ### Screenshots of the project ###
 
 ![image](https://github.com/AbishekNedunchezhian/StudentManagement/blob/79252b7b13906e5827b9f6d1f83da777885fb5b0/Screenshot%202025-04-03%20214955.png)
+
+![image](https://github.com/AbishekNedunchezhian/StudentManagement/blob/de1e3634eef8e7efaf165beb7f1d15a3a45984fd/Screenshot%202025-04-03%20214626.png)
+
+### Future improvements ###
+
+College Management System: Expand the project to include additional features like attendance tracking, course management, faculty management, and more.
+
+Alumni Details: Add a section to manage alumni information, including alumni registration, career updates, and event participation.
+
+Authentication: Implement user authentication and authorization for admins and faculty members to manage student data securely.
